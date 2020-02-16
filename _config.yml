@@ -6,8 +6,8 @@ permalink:           pretty
 # Setup
 title:               Evan's Blog
 tagline:             'A place for words'
-description:         'Made Possible by the <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme '
-url:                 http://localhost:4000
+description:         'Made Possible by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>'
+url:                 
 baseurl:             ''
 paginate:            5
 
