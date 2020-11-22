@@ -19,3 +19,11 @@ author:
 
 # Custom vars
 version:             0.0.3
+
+# Pagination
+
+paginate: 3
+paginate_path: /blog/page/:num/
+
+plugins:
+  - jekyll-paginate
