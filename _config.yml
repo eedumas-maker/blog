@@ -20,3 +20,6 @@ author:
 # Custom vars
 version:             0.0.3
 
+baseurl: "/46fdcc6902eb6841f2fc62595172cc29cac9740a"
+production_url : http://eedumas-maker.github.io.com/46fdcc6902eb6841f2fc62595172cc29cac9740a
+BASE_PATH : http://eedumas-maker.com/46fdcc6902eb6841f2fc62595172cc29cac9740a

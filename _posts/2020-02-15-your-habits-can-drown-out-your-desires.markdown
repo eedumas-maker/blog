@@ -16,3 +16,6 @@ So I'm in that in-between place, where I've stopped my habits, but I don't know 
 Thank god I'm stubborn enough to remain here until a dream arrives. I'm going to try to listen real hard, be curious, and stay quiet.
 
 Wish me luck.
+
+## COVID-Era Update
+> Back on my old bullshit, hard.
