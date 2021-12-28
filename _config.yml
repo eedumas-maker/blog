@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Evan's Blog
+tagline:             'A place for words'
+description:         'Made Possible by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>'
+url:                 
+baseurl:             '/46fdcc6902eb6841f2fc62595172cc29cac9740a'
+paginate:            3
+
+# About/contact
+author:
+  name:              Evan Dumas
+  url:               https://twitter.com/eedumas
+  email:             eedumas@gmail.com
+
+# Custom vars
+version:             0.1.0
